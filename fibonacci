@@ -10,9 +10,9 @@ int fib(int n) {
 		return 1;
 	}
 
-	int smallOutput1 = fib(n - 1);
-	int smallOutput2 = fib(n - 2);
-	return smallOutput1 + smallOutput2;
+	int smallOutput = fib(n - 1);
+	int smallOutputtwo = fib(n - 2);
+	return smallOutput + smallOutputtwo;
 }
 
 int main() {
