@@ -1,2 +1,2 @@
 # hacktoberfest2019
-for pull requests
+for pull requests and cool swags
